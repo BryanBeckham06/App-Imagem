@@ -1,9 +1,6 @@
-# Projeto-Navigator
-### Calculador de idade e juros
+# App-Imagem
+### Troca de Imagem via App.js
 
-# Sobre o projeto:
-- Calculadora de idade: informar a idade com base no ano atual menos o ano do nascimento
-- Calculadora de juros:  informar o juros com base no valor e na porcentagem
 
 # Linguagens:
 - Node.js
