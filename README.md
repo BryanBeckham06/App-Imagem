@@ -14,7 +14,10 @@
 # Como executar:
 - 1 Clone esse repositório
 - 2 Abra com VsCode
-- 3 Abra o terminal e acesse a pasta ./my-app
+- 3 Abra o terminal e acesse a pasta
+- ```
+  cd Jordan
+  ```
 - 4 Instale as dependências
   ```
   yarn
